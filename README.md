@@ -1,4 +1,4 @@
-######################################## KELOMPOK 2 ####################################################
+KELOMPOK 2
 
 1. Install Library cpr ( https://github.com/whoshuu/cpr ).
 2. Install Library jsoncons ( https://github.com/danielaparker/jsoncons ).
